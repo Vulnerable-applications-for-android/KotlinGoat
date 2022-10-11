@@ -112,7 +112,7 @@ dependencies {
         implementation 'de.mindpipe.android:android-logging-log4j:1.0.3' // Android Log4J
     // Database
         implementation "androidx.room:room-runtime:2.2.4" // Room
-        annotationProcessor "androidx.room:room-compiler:2.2.4" // Room
+        annotationProcessor "androidx.room:room-compiler:2.4.3" // Room
         implementation 'com.github.satyan:sugar:1.5' // Sugar ORM
         implementation "com.squareup.sqldelight:android-driver:1.2.2" // SQL Delight
         implementation 'org.dizitart:nitrite:3.3.0' // Nitrite
