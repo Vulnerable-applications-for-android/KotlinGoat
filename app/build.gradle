@@ -93,7 +93,7 @@ dependencies {
     implementation 'androidx.multidex:multidex:2.0.1'
 
     //REST Client Libraries
-        implementation 'com.squareup.retrofit2:retrofit:2.7.1' //Retrofit
+        implementation 'com.squareup.retrofit2:retrofit:2.9.0' //Retrofit
         implementation 'com.squareup.moshi:moshi-kotlin:1.9.2' //Moshi
         debugImplementation 'com.readystatesoftware.chuck:library:1.1.0' //Chuck
         releaseImplementation 'com.readystatesoftware.chuck:library-no-op:1.1.0' //Chuck
