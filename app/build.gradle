@@ -108,7 +108,7 @@ dependencies {
         implementation('com.crashlytics.sdk.android:crashlytics:2.10.1@aar') { // Fabric, Crashalytics
             transitive = true
         }
-        implementation 'org.slf4j:slf4j-android:1.7.30' // SLF4J Android
+        implementation 'org.slf4j:slf4j-android:1.7.36' // SLF4J Android
         implementation 'de.mindpipe.android:android-logging-log4j:1.0.3' // Android Log4J
     // Database
         implementation "androidx.room:room-runtime:2.2.4" // Room
