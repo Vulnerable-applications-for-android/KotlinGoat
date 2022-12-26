@@ -79,6 +79,8 @@ android {
             path "src/main/cpp/CMakeLists.txt"
         }
     }
+
+    android.ndkVersion  "23.2.8568313"
 }
 
 println(System.getenv("keyPassword"))//Privacy Violation, Unhandled Exception
