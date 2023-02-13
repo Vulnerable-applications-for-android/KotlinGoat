@@ -80,7 +80,7 @@ android {
         }
     }
 
-    android.ndkVersion  "23.2.8568313"
+//    android.ndkVersion  "23.2.8568313"
 }
 
 println(System.getenv("keyPassword"))//Privacy Violation, Unhandled Exception
